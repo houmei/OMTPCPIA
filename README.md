@@ -1,4 +1,4 @@
-# OMTPCPIA
+# OMTPCPIA and other TRRS plug converter (KiCad5)
 
 Schematic
 ![schematic](img/OMTPCTIAV01L02-sch.png)
