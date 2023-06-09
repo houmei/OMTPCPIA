@@ -3,10 +3,15 @@
 Schematic
 ![schematic](img/OMTPCTIAV01L02-sch.png)
 
-
 PCB
 ![pcb](img/OMTPCTIAV01L02-pcb.png)
 
+部品表  
+
+J1 [基板用RCAジャック 黄 RJ-2410](https://akizukidenshi.com/catalog/g/gC-06508/)  
+J2 [基板用RCAジャック 白 MJ-523](https://akizukidenshi.com/catalog/g/gC-16497/)  
+J3 [基板用RCAジャック 赤 RJ-2410](https://akizukidenshi.com/catalog/g/gC-02385/)  
+J5-J8 [３．５ｍｍ４極ミニジャック　基板取付用　ＭＪ－４ＰＰ－９](https://akizukidenshi.com/catalog/g/gC-06070/)  
 
 ## 説明
 
