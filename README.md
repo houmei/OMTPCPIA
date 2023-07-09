@@ -15,8 +15,7 @@ J5-J8 [３．５ｍｍ４極ミニジャック　基板取付用　ＭＪ－４�
 
 ## 説明
 
-<!-- [DIN8RJ45V01L04 デジタルRGBをVGA RJ45コネクタに変換](http://blog.livedoor.jp/hardyboy/archives/10203256.html "まごころせいじつ堂")   -->
-<!-- [SORD m5用ROM/RAMカートリッジ基板](https://keisanki.booth.pm/items/3939000 "booth")  -->
+[OMTPCTIA 4極3.5mmジャックの変換基板](http://blog.livedoor.jp/hardyboy/archives/10368279.html)  
 
 ## 履歴
 V01L01(非公開) 初版 RCAジャック、4極3.5mmジャックのフットプリント要改善  
